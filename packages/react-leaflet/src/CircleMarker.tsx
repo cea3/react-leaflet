@@ -1,8 +1,8 @@
-import { createPathComponent, updateCircle } from '@react-leaflet/core'
-import type { CircleMarkerProps } from '@react-leaflet/core'
+import { createPathComponent, updateCircle } from '@cea3/react-leaflet-core'
+import type { CircleMarkerProps } from '@cea3/react-leaflet-core'
 import { CircleMarker as LeafletCircleMarker } from 'leaflet'
 
-export type { CircleMarkerProps } from '@react-leaflet/core'
+export type { CircleMarkerProps } from '@cea3/react-leaflet-core'
 
 export const CircleMarker = createPathComponent<
   LeafletCircleMarker,

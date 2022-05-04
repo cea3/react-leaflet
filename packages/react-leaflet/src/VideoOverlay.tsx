@@ -2,7 +2,7 @@ import {
   MediaOverlayProps,
   createLayerComponent,
   updateMediaOverlay,
-} from '@react-leaflet/core'
+} from '@cea3/react-leaflet-core'
 import {
   VideoOverlay as LeafletVideoOverlay,
   VideoOverlayOptions,

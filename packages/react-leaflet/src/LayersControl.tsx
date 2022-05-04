@@ -4,7 +4,7 @@ import {
   createControlHook,
   createElementHook,
   useLeafletContext,
-} from '@react-leaflet/core'
+} from '@cea3/react-leaflet-core'
 import { Control, Layer } from 'leaflet'
 import React, {
   ForwardRefExoticComponent,

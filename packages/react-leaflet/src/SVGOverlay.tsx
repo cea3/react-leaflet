@@ -3,7 +3,7 @@ import {
   createElementHook,
   createLayerHook,
   updateMediaOverlay,
-} from '@react-leaflet/core'
+} from '@cea3/react-leaflet-core'
 import { SVGOverlay as LeafletSVGOverlay } from 'leaflet'
 import { ReactNode, Ref, forwardRef, useImperativeHandle } from 'react'
 import { createPortal } from 'react-dom'

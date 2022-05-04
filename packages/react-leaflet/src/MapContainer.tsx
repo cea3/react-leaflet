@@ -1,4 +1,4 @@
-import { CONTEXT_VERSION, LeafletProvider } from '@react-leaflet/core'
+import { CONTEXT_VERSION, LeafletProvider } from '@cea3/react-leaflet-core'
 import {
   FitBoundsOptions,
   LatLngBoundsExpression,

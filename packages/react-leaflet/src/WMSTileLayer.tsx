@@ -3,7 +3,7 @@ import {
   createTileLayerComponent,
   updateGridLayer,
   withPane,
-} from '@react-leaflet/core'
+} from '@cea3/react-leaflet-core'
 import { TileLayer, WMSOptions, WMSParams } from 'leaflet'
 
 export interface WMSTileLayerProps extends WMSOptions, LayerProps {
