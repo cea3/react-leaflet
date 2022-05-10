@@ -1,4 +1,4 @@
-import { EventedProps, createLayerComponent } from '@cea3/react-leaflet-core'
+import { EventedProps, createLayerComponent } from '@clean-energy-associates/react-leaflet-core'
 import {
   LatLngExpression,
   Marker as LeafletMarker,

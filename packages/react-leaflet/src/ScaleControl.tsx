@@ -1,4 +1,4 @@
-import { createControlComponent } from '@cea3/react-leaflet-core'
+import { createControlComponent } from '@clean-energy-associates/react-leaflet-core'
 import { Control } from 'leaflet'
 
 export type ScaleControlProps = Control.ScaleOptions

@@ -3,7 +3,7 @@ import {
   LeafletProvider,
   addClassName,
   useLeafletContext,
-} from '@cea3/react-leaflet-core'
+} from '@clean-energy-associates/react-leaflet-core'
 import React, {
   CSSProperties,
   ReactNode,
