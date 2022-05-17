@@ -3,7 +3,7 @@ import {
   createTileLayerComponent,
   updateGridLayer,
   withPane,
-} from '@react-leaflet/core'
+} from '@clean-energy-associates/react-leaflet-core'
 import { TileLayer as LeafletTileLayer, TileLayerOptions } from 'leaflet'
 
 export interface TileLayerProps extends TileLayerOptions, LayerProps {

@@ -1,4 +1,4 @@
-import { createControlComponent } from '@react-leaflet/core'
+import { createControlComponent } from '@clean-energy-associates/react-leaflet-core'
 import { Control } from 'leaflet'
 
 export type ZoomControlProps = Control.ZoomOptions

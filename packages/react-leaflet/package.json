@@ -1,5 +1,5 @@
 {
-  "name": "react-leaflet",
+  "name": "@clean-energy-associates/react-leaflet",
   "version": "3.2.5",
   "description": "React components for Leaflet maps",
   "main": "cjs/index.js",
@@ -43,7 +43,7 @@
     "umd/*"
   ],
   "dependencies": {
-    "@react-leaflet/core": "^1.1.1"
+    "@clean-energy-associates/react-leaflet-core": "^1.1.1"
   },
   "peerDependencies": {
     "leaflet": "^1.7.1",

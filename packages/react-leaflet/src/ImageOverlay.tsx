@@ -2,7 +2,7 @@ import {
   MediaOverlayProps,
   createLayerComponent,
   updateMediaOverlay,
-} from '@react-leaflet/core'
+} from '@clean-energy-associates/react-leaflet-core'
 import { ImageOverlay as LeafletImageOverlay } from 'leaflet'
 import { ReactNode } from 'react'
 

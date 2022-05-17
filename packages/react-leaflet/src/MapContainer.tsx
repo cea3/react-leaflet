@@ -1,4 +1,4 @@
-import { CONTEXT_VERSION, LeafletProvider } from '@react-leaflet/core'
+import { CONTEXT_VERSION, LeafletProvider } from '@clean-energy-associates/react-leaflet-core'
 import {
   FitBoundsOptions,
   LatLngBoundsExpression,

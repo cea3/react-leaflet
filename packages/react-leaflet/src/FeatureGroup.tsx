@@ -1,4 +1,4 @@
-import { PathProps, createPathComponent } from '@react-leaflet/core'
+import { PathProps, createPathComponent } from '@clean-energy-associates/react-leaflet-core'
 import { FeatureGroup as LeafletFeatureGroup } from 'leaflet'
 
 import { LayerGroupProps } from './LayerGroup'

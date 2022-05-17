@@ -1,4 +1,4 @@
-import { PathProps, createPathComponent } from '@react-leaflet/core'
+import { PathProps, createPathComponent } from '@clean-energy-associates/react-leaflet-core'
 import {
   LatLngBoundsExpression,
   Rectangle as LeafletRectangle,
